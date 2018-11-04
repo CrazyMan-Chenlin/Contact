@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<contact-list> 
+  <contact id="1"> 
+    <name>Rose</name>  
+    <gender>男</gender>  
+    <age>18</age>  
+    <phone>41646465465</phone>  
+    <email>3165@162.com</email>  
+    <QQ>646546565</QQ> 
+  </contact>  
+  <contact id="2"> 
+    <name>chenlin</name>  
+    <gender>男</gender>  
+    <age>18</age>  
+    <phone>13247529607</phone>  
+    <email>269344402@qq.com</email>  
+    <QQ>1204977198</QQ> 
+  </contact>  
+  <contact id="3"> 
+    <name>ROY1</name>  
+    <gender>男</gender>  
+    <age>18</age>  
+    <phone>13247529607</phone>  
+    <email>269344402@qq.com</email>  
+    <QQ>1204977198</QQ> 
+  </contact> 
+</contact-list>
